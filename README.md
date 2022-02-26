@@ -4,7 +4,7 @@
 Synchronization flow between a webpage (used to collect links, hosted on github pages) to Salesforce.
 
 <p align="center">
-  <img src="https://github.com/Scavix/Salesforce-Rest-Api-Updater/blob/main/mySF.drawio.svg" />
+  <img src="https://github.com/Scavix/Synchronization-from-Github-pages-to-Salesforce-sites/blob/main/mySF.drawio.svg" />
 </p>
 
 ## Actors
