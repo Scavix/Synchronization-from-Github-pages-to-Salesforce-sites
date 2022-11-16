@@ -22,3 +22,12 @@ Synchronization flow between a webpage (used to collect links, hosted on github 
   <li>Through the beautifulsoup library and some regexs the page is parsed</li>
   <li>A JSON is prepared and sent to Salesforce standard APIs URL</li>
 </ul>
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
